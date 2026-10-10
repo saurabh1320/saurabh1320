@@ -4,15 +4,15 @@
 
 I enjoy solving problems with code, exploring data, and building practical applications using machine learning and software engineering.
 
-- 🤖 Exploring **Machine Learning, Deep Learning, and AI**
-- 📊 Interested in **Exploratory Data Analysis and data-driven insights**
-- 💻 Practicing **Data Structures & Algorithms and software development**
-- 🚀 Building projects that connect theory with real-world applications
-- 🌱 Continuously learning, experimenting, and improving my technical skills
+-  Exploring **Machine Learning, Deep Learning, and AI**
+-  Interested in **Exploratory Data Analysis and data-driven insights**
+-  Practicing **Data Structures & Algorithms and software development**
+-  Building projects that connect theory with real-world applications
+-  Continuously learning, experimenting, and improving my technical skills
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Programming Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
