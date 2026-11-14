@@ -42,14 +42,8 @@ A machine learning project focused on predicting employee salaries.
 
 **Future improvements:** Data preprocessing, exploratory analysis, model comparison, evaluation metrics, and an interactive prediction interface.
 
-### 2. Face Recognition
-A computer vision project focused on face recognition.
 
-[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saurabh1320/Face_recoginition)
-
-**Future improvements:** Document the recognition pipeline, setup instructions, testing, limitations, and privacy considerations.
-
-### 3. C Programming & Problem Solving
+### 2. C Programming & Problem Solving
 A place to organize programming exercises and strengthen software development fundamentals.
 
 [![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saurabh1320/Demo)
